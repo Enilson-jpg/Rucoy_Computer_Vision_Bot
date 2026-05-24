@@ -1,0 +1,27 @@
+# Ambiente virtual
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+*.log.*
+
+# Datasets e modelos base (muito grandes)
+*.zip
+yolo11s.pt
+
+# Outputs de treino
+runs/
+
+# IDE e ferramentas locais
+.vscode/
+.claude/
+
+# OS
+Thumbs.db
+.DS_Store

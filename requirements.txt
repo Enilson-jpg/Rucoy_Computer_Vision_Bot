@@ -1,0 +1,8 @@
+# Dependências reais do projeto
+ultralytics==8.4.47
+opencv-python==4.10.0.84
+numpy==2.3.5
+keyboard==0.13.5
+pyautogui==0.9.54
+dxcam==0.3.0
+pywin32==306
